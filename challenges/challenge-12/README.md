@@ -1,4 +1,4 @@
-# Trineos eléctricos, ¡guau!
+# Trineos eléctricos, ¡Guau!
 
 ## 🔢 Instrucciones
 
