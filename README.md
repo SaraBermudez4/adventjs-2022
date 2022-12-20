@@ -22,11 +22,11 @@ My solutions to [adventJS](https://adventjs.dev/) by [@midudev](https://twitter.
 |  12   |            [Trineos eléctricos, ¡Guau!](challenges/challenge-12/README.md)            |     🟠      | [Show](challenges/challenge-12/solution.ts) |
 |  13   |       [Backup de los archivos de Papá Noel](challenges/challenge-13/README.md)        |     🟢      | [Show](challenges/challenge-13/solution.ts) |
 |  14   |                 [El mejor camino](challenges/challenge-14/README.md)                  |     🟢      | [Show](challenges/challenge-14/solution.ts) |
-|  15   |          [Decorando el árbol de Navidad](challenges/challenge-15/README.md)           |     🟠      |    [Show](2025/challenge-15/solution.ts)    |
+|  15   |          [Decorando el árbol de Navidad](challenges/challenge-15/README.md)           |     🟠      | [Show](challenges/challenge-15/solution.ts) |
 |  16   |        [Arreglando las cartas de Papá Noel](challenges/challenge-16/README.md)        |     🔴      | [Show](challenges/challenge-16/solution.ts) |
 |  17   |          [Llevando los regalos en sacos](challenges/challenge-17/README.md)           |     🟠      | [Show](challenges/challenge-17/solution.ts) |
 |  18   |             [¡Nos quedamos sin tinta!](challenges/challenge-18/README.md)             |     🟢      | [Show](challenges/challenge-18/solution.ts) |
 |  19   |              [Ordenando los regalos](challenges/challenge-19/README.md)               |     🟢      | [Show](challenges/challenge-19/solution.ts) |
-|  20   |               [Más viajes retadores](challenges/challenge-20/README.md)               |     🔴      | [Show](challenges/challenge-19/solution.ts) |
+|  20   |               [Más viajes retadores](challenges/challenge-20/README.md)               |     🔴      | [Show](challenges/challenge-20/solution.ts) |
 
 [^1]: **Difficulty**: 🟢 Easy 🟠 Medium 🔴 Hard 🟣 Very Hard
